@@ -5,7 +5,7 @@ Full Stack Training and Projects
 
 
 | Language | Description |
-|:---------|:--------_---|
+|:---------|:-----------|
 |JavaScript | TBA JavaScript |
 | TypeScript | TBA TypeScript |
 | Nodejs | TBA JavaScript |
