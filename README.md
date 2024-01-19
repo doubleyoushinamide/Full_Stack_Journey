@@ -3,12 +3,11 @@
 
 Full Stack Training and Projects
 
----------------------------
-Language | Description
----------------------------
-JavaScript | TBA JavaScript
-TypeScript | TBA TypeScript
-Nodejs | TBA JavaScript
----------------------------
+
+| Language | Description |
+|:---------|:--------_---|
+|JavaScript | TBA JavaScript |
+| TypeScript | TBA TypeScript |
+| Nodejs | TBA JavaScript |
 
 Author: ```olusholasalau@gmail.com```
