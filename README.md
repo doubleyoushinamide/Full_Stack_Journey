@@ -6,8 +6,8 @@ Full Stack Training and Projects
 
 | Language | Description |
 |:---------|:-----------|
-|JavaScript | TBA JavaScript |
+|JavaScript | Essential for creating dynamic and interactive user interfaces. Familiarize yourself with libraries/frameworks like React, Angular, or Vue.js. |
 | TypeScript | TBA TypeScript |
-| Nodejs | TBA JavaScript |
+| Nodejs | Using JavaScript on the server side can provide a consistent language across the entire stack. |
 
 Author: ```olusholasalau@gmail.com```
