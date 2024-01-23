@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Practicals</title>
+    <h1>This is a General Question for user</h1>
+  </head>
+  <body>
+    <button onclick="generalQuestion()">Click Me!</button>
+    <script>
+      // Insert the General question function DT here;
+      function generalQuestion() {
+        let val1, val2, val3;
+        // parse in a string as the DT acceptable.
+        // any other DT parsed will return a NaN.
+        val1 = String(prompt('What is your concern?'));
+        val2 = String(prompt('Kindly register your Name: \n'));
+        val3 = val2.split(' ')[0];
+        alert(
+          `Thank you Mr. ${val3} \nWe have recieved your response and complaints\nThank You!`
+        );
+      }
+    </script>
+  </body>
+</html>
