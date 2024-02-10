@@ -1,0 +1,10 @@
+{
+    "name": "Shina",
+    "age": 27,
+    "email": "olusholasalau@gmail.com",
+    "hobbies": ["Reading", "Football", "Games"],
+    "address": {
+        "city": "Omu-Aran",
+        "idk": true
+    }
+}
