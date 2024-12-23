@@ -18,3 +18,5 @@ console.log(x + ' % ' + y + ' = ' + remainderVariable);
 console.log(x + ' / ' + y + ' = ' + divisionVariable);
 
 //
+const t = Math.ceil(5.1);
+console.log(`Round up is: ${t}`);
