@@ -29,3 +29,11 @@ console.log(library);
 const { title: firstbook } = library[0];
 
 console.log(firstbook);
+
+//3. Convertto JSON
+const toJson = JSON.stringify(library);
+console.log(toJson);
+
+//reverse order
+const reverseJSON = JSON.parse(toJson);
+console.log(reverseJSON);
